@@ -12,3 +12,5 @@ https://anthonypotts.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Anthony Potts
+
+### ©️2019 Run Buddy, Inc
